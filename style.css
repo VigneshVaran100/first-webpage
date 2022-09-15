@@ -1,0 +1,14 @@
+body{
+    background-color: #faf2e4;
+    margin:0 15%;
+    font-family: sans-serif ;
+}
+h1{
+    text-align: center;
+    border-bottom: 3px solid lightblue;
+    
+}
+h2{
+    color: #d1633c;
+    font-size: 1em;
+}
